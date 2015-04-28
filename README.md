@@ -1,5 +1,6 @@
 # robotsURLParser
 
+Generates statistics for crawlers that misbehave using the robots exclusion standards policy of various URLs. 
 
 Syntax to run :
 
